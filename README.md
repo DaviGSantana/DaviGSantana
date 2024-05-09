@@ -21,7 +21,7 @@
 
 Apaixonado por tecnologia.
 
-![DaviGSantana GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![DaviGSantana GitHub stats](https://github-readme-stats.vercel.app/api?username=davigsantana&show_icons=true&theme=dracula)
 
 ### Experience
 <div style="display: inline_block">
