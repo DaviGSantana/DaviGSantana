@@ -19,7 +19,6 @@
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
-## Apaixonado por tecnologia.
 
 ![DaviGSantana GitHub stats](https://github-readme-stats.vercel.app/api?username=davigsantana&show_icons=true&theme=dracula)
 
