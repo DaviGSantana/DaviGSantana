@@ -3,6 +3,7 @@
 **`Offensive Security • Reverse Engineering • Malware Development • System Programming`**
 
 Me chamo Davi, tenho 20 anos e sou natural do Ceará. Concluí o ensino médio na EEEP, com formação técnica em Edificações, e atualmente curso Sistemas de Informação na Unicatólica de Quixadá. Tenho foco em Segurança Ofensiva, atuando com engenharia reversa de binários x86/x64, desenvolvimento de malware com técnicas de evasão, programação em C de baixo nível, exploração de vulnerabilidades e escalonamento de privilégios em ambientes Linux e Windows, além de estudar criptografia, análise forense e antiforense.
+
 <a href="mailto:cyberdgsecurity20@proton.me" target="_blank">
   <img alt="protonmail" src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
 </a>
