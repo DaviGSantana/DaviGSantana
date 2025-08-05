@@ -3,6 +3,13 @@
 **`Offensive Security • Reverse Engineering • Malware Development • System Programming`**
 
 Me chamo Davi, tenho 20 anos e sou natural do Ceará. Concluí o ensino médio na EEEP, com formação técnica em Edificações, e atualmente curso Sistemas de Informação na Unicatólica de Quixadá. Tenho foco em Segurança Ofensiva, atuando com engenharia reversa de binários x86/x64, desenvolvimento de malware com técnicas de evasão, programação em C de baixo nível, exploração de vulnerabilidades e escalonamento de privilégios em ambientes Linux e Windows, além de estudar criptografia, análise forense e antiforense.
+<a href="mailto:cyberdgsecurity20@proton.me" target="_blank">
+  <img alt="protonmail" src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/davisantanadev/" target="_blank">
+  <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 ---
 
@@ -25,6 +32,7 @@ Me chamo Davi, tenho 20 anos e sou natural do Ceará. Concluí o ensino médio n
   <img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black" />
   <img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img alt="Wireshark" src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" />
 
   <br><br>
 
@@ -34,9 +42,7 @@ Me chamo Davi, tenho 20 anos e sou natural do Ceará. Concluí o ensino médio n
 
 </div>
 
-    ### Contato
-  <img alt="protonmail" src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
-  <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
 
 ---
 
