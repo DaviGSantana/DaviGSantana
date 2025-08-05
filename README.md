@@ -15,7 +15,7 @@ Me chamo Davi, tenho 20 anos e sou natural do Ceará. Concluí o ensino médio n
 ---
 
 <!-- Badges e Skills -->
-### Tecnologias que uso
+### 👾 Tecnologias que uso
 <p>
   <img alt="Assembly" src="https://img.shields.io/badge/x86/x64%20Assembly-grey?style=for-the-badge&logo=nasm&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
