@@ -16,6 +16,7 @@ Me chamo Davi, tenho 20 anos e sou natural do Ceará. Concluí o ensino médio n
 
 <!-- Badges e Skills -->
 ### Tecnologias que uso
+<p>
   <img alt="Assembly" src="https://img.shields.io/badge/x86/x64%20Assembly-grey?style=for-the-badge&logo=nasm&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
@@ -25,12 +26,8 @@ Me chamo Davi, tenho 20 anos e sou natural do Ceará. Concluí o ensino médio n
   <img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black" />
   <img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
-  <img alt="Wireshark" src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" />
-
-
-
-
-
+  <img alt="VMware" src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" />
+</p>
 ---
 
 <!-- GitHub Stats -->
