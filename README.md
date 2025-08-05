@@ -18,7 +18,7 @@ Entusiasta em Segurança Ofensiva, com atuação focada em:
 ---
 
 <!-- Badges e Skills -->
-<div align="center">
+<div align="left">
 
   <br><br>
 
