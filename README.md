@@ -25,7 +25,7 @@ Sou um entusiasta em Segurança Ofensiva, com foco em:
 |-----------|-------|
 | TryHackMe | [![TryHackMe](https://img.shields.io/badge/TryHackMe-Click%20Here-red?logo=tryhackme&logoColor=white&style=for-the-badge)](https://tryhackme.com/p/DaviS) |
 | Hack The Box | [![Hack The Box](https://img.shields.io/badge/HackTheBox-Profile-9fef00?logo=hackthebox&logoColor=black&style=for-the-badge)](https://app.hackthebox.com/profile/123456) |
-| Offensive Security | ![OffSec](https://img.shields.io/badge/OSINT%20&%20Malware%20Dev-OffSec-black?style=for-the-badge&logo=kalilinux&logoColor=white) |
+| Universidade Segurança da Informação | ![USI](https://img.shields.io/badge/Seguran%C3%A7a%20da%20Informa%C3%A7%C3%A3o-Rafael%20Sousa-blue?style=for-the-badge&logo=graduation-cap&logoColor=white) |
 
 </div>
 
