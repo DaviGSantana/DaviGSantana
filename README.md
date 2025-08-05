@@ -1,10 +1,9 @@
+# 👩🏻‍💻 Larissa Kich
 
 **`Offensive Security • Reverse Engineering • Malware Development • System Programming`**
 
 
 ---
-
-<!-- Sobre Mim -->
 ### 🧠 Sobre Mim
 
 Entusiasta em Segurança Ofensiva, com atuação focada em:
