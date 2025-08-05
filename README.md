@@ -32,7 +32,7 @@ Sou um entusiasta em Segurança Ofensiva, com foco em:
 
 ---
 
-### 🔧 Tecnologias que domino
+### 🔧 Tecnologias 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,c,python,bash,git,vscode,raspberrypi,vim" /><br><br>
@@ -48,16 +48,15 @@ Sou um entusiasta em Segurança Ofensiva, com foco em:
 
 - Engenharia Reversa & Malware Analysis
 - Desenvolvimento de Exploits e Shellcodes
-- Engenharia Social e OSINT
 - Evasão de Antivírus e Bypass de EDR
 - Programação Segura (C/C++ & Python)
-- Criptografia e Esteganografia
+- Criptografia 
 
 ---
 
 ### ⚙️ Ferramentas & Plataformas
 
 ```bash
-🛠️ Ferramentas: Ghidra, IDA Free, Radare2, Cutter, Objdump, Strace, Wireshark, nmap, Burp Suite
-🔎 Testes: Metasploit, LinPEAS/WinPEAS, BloodHound, Impacket, Empire, mimikatz
+🛠️ Ferramentas: Ghidra, IDA Free, Radare2, Objdump, Strace, Wireshark, nmap, Burp Suite
+🔎 Testes: LinPEAS/WinPEAS, BloodHound, Impacket, Empire, mimikatz
 📦 Debuggers: gdb, x64dbg, OllyDbg
