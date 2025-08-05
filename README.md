@@ -17,8 +17,6 @@ Sou um entusiasta em Segurança Ofensiva, com foco em:
 - 🧪 Análise forense, antiforense e evasão  
 - 🧠 Obfuscation, steganografia e payloads customizados  
 
----
-
 <!-- Badges e Skills -->
 <div align="center">
 
