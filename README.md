@@ -1,4 +1,3 @@
-
 <p align="center">
   <b>Offensive Security • Reverse Engineering • Malware Development • System Programming</b>
 </p>
@@ -35,11 +34,17 @@ Sou um entusiasta em Segurança Ofensiva, com foco em:
 ### 🔧 Tecnologias 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,c,python,bash,git,vscode,raspberrypi,vim" /><br><br>
-  <img src="https://img.shields.io/badge/x86/x64%20Assembly-grey?style=flat-square&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ghidra-yellow?style=flat-square&logo=ghidra&logoColor=black"/>
-  <img src="https://img.shields.io/badge/IDA%20Free-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Radare2-Black?style=flat-square"/>
+  <img src="https://skillicons.dev/icons?i=linux,c,python,bash,git,codeblocks" /><br><br>
+
+  <img src="https://img.shields.io/badge/x86/x64%20Assembly-black?style=for-the-badge&logo=nasm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ghidra-F5C211?style=for-the-badge&logo=ghidra&logoColor=black"/>
+  <img src="https://img.shields.io/badge/IDA%20Pro-37474F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Radare2-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GDB-000000?style=for-the-badge&logo=gnu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/x64dbg-grey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Immunity%20Debugger-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-ff5722?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows%20Internals-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
 ---
@@ -59,4 +64,4 @@ Sou um entusiasta em Segurança Ofensiva, com foco em:
 ```bash
 🛠️ Ferramentas: Ghidra, IDA Free, Radare2, Objdump, Strace, Wireshark, nmap, Burp Suite
 🔎 Testes: LinPEAS/WinPEAS, BloodHound, Impacket, Empire, mimikatz
-📦 Debuggers: gdb, x64dbg, OllyDbg
+📦 Debuggers: gdb, x64dbg, OllyDbg, Immunity Debugger
