@@ -38,7 +38,8 @@ Me chamo Davi, tenho 20 anos e sou natural do Ceará. Concluí o ensino médio n
 </div>
 
 ### 👾 Estatíscicas
-<p align="center" height="200">
-  <img src="https://github-readme-stats.vercel.app/api?username=davigsantana&show_icons=true&theme=tokyonight&width=400" alt="davigsantana GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davigsantana&theme=tokyonight&width=400"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=davigsantana&show_icons=true&theme=tokyonight" width="45%" style="vertical-align: top;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davigsantana&theme=tokyonight&layout=compact" width="45%" style="vertical-align: top;" />
 </p>
+
