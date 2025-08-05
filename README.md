@@ -1,5 +1,5 @@
 
-**'Offensive Security • Reverse Engineering • Malware Development • System Programming'**
+**`Offensive Security • Reverse Engineering • Malware Development • System Programming`**
 
 
 ---
