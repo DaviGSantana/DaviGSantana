@@ -22,10 +22,6 @@ Entusiasta em Segurança Ofensiva, com atuação focada em:
 <!-- Badges e Skills -->
 <div align="center">
 
-  <!-- Contato -->
-  <img alt="protonmail" src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
-  <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-
   <br><br>
 
   <!-- Linguagens -->
@@ -48,6 +44,10 @@ Entusiasta em Segurança Ofensiva, com atuação focada em:
   <!-- Plataformas -->
   <img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" />
   <img alt="Hack The Box" src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" />
+
+    ## Contato
+  <img alt="protonmail" src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
+  <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 </div>
 
