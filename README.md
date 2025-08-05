@@ -7,7 +7,6 @@ Me chamo Davi, tenho 20 anos e sou natural do Ceará. Concluí o ensino médio n
 <a href="mailto:cyberdgsecurity20@proton.me" target="_blank">
   <img alt="protonmail" src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
 </a>
-
 <a href="https://www.linkedin.com/in/davisantanadev/" target="_blank">
   <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
