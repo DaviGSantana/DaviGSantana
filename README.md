@@ -1,7 +1,6 @@
-<!-- Headline -->
-<p align="center" style="font-size:14px">
-  <b>Offensive Security • Reverse Engineering • Malware Development • System Programming</b>
-</p>
+
+**'Offensive Security • Reverse Engineering • Malware Development • System Programming'**
+
 
 ---
 
