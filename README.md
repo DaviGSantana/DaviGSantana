@@ -1,5 +1,5 @@
 <!-- Headline -->
-<p align="center">
+<p align="center" style="font-size:14px">
   <b>Offensive Security • Reverse Engineering • Malware Development • System Programming</b>
 </p>
 
@@ -8,14 +8,14 @@
 <!-- Sobre Mim -->
 ### 🧠 Sobre Mim
 
-Sou um entusiasta em Segurança Ofensiva, com foco em:
+Entusiasta em Segurança Ofensiva, com atuação focada em:
 
--🔬 Engenharia Reversa (Assembly x86/x64, ferramentas como Ghidra e Radare2)  
--🧬 Desenvolvimento de Malware e Bypasses AV/EDR  
--🧱 Programação de Baixo Nível com C  
--🐚 Exploração de vulnerabilidades e privesc em ambientes Linux/Windows  
--🧪 Análise forense, antiforense e evasão  
--🧠 Obfuscation, steganografia e payloads customizados  
+- 🔬 Engenharia Reversa (Assembly x86/x64, ferramentas como Ghidra e Radare2)  
+- 🧬 Desenvolvimento de Malware e Bypasses AV/EDR  
+- 🧱 Programação de Baixo Nível com C  
+- 🐚 Exploração de vulnerabilidades e privesc em ambientes Linux/Windows  
+- 🧪 Análise forense, antiforense e evasão  
+- 🧠 Obfuscation, steganografia e payloads customizados  
 
 ---
 
@@ -51,7 +51,7 @@ Sou um entusiasta em Segurança Ofensiva, com foco em:
 
 </div>
 
-<br>
+---
 
 <!-- GitHub Stats -->
 <p align="center">
