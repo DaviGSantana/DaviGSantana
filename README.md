@@ -1,6 +1,5 @@
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,c,python,bash,raspberrypi,git,vim" alt="Tech Stack" /><br><br>
   <b>Offensive Security • Reverse Engineering • Malware Development • System Programming</b>
 </p>
 
