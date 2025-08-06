@@ -12,7 +12,7 @@ Me chamo Davi, tenho 20 anos e sou natural do Ceará. Concluí o ensino médio n
 </a>
 
 ---
-
+<br></br>
 
 <!-- Badges e Skills -->
 ### 👾 Tecnologias que uso
@@ -37,6 +37,7 @@ Me chamo Davi, tenho 20 anos e sou natural do Ceará. Concluí o ensino médio n
   </p>
 </div>
 
+<br></br>
 
 ### 👾 Estatíscicas
 <p align="center">
