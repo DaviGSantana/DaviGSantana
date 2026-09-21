@@ -5,7 +5,8 @@
 **Offensive Security · Reverse Engineering · Malware Development · System Programming**
 
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B3FFD?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:seuemail@proton.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davigsantana)
+[![Blog](https://img.shields.io/badge/Zykrav_Blog-0D0D0D?style=for-the-badge&logo=hexo&logoColor=white)](https://davigsantana.github.io/)
 
 <br>
 
@@ -57,16 +58,25 @@ Offensive Security  →  Reverse Engineering  →  Malware Development
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-**🛡️ Threat Intel Watch**
+**🦠 Malware Development**
 
-Plataforma self-hosted de Threat Intelligence (Flask + SQLite), com correlação de IOCs, infraestrutura, malware e campanhas — modelo de entidades, grafo de investigação e mapeamento MITRE ATT&CK.
+Desenvolvimento e estudo de malware ofensivo em ambiente controlado — técnicas de evasão, persistência, injeção e anti-análise, com foco em entender o lado do atacante.
 
-`Python` `Flask` `SQLite` `Linux`
+`C` `C++` `Assembly` `Windows API`
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+**💥 Exploit Development**
+
+Pesquisa e desenvolvimento de exploits — do fuzzing e análise de vulnerabilidades à construção de PoCs, explorando memory corruption e falhas em binários.
+
+`x86/x64` `Debugging` `Fuzzing`
+
+</td>
+<td width="33%" valign="top">
 
 **🧬 Reverse Engineering Labs**
 
@@ -77,6 +87,16 @@ Estudos e writeups de engenharia reversa: análise de PE, Windows internals, deb
 </td>
 </tr>
 </table>
+
+---
+
+## ✍️ Últimos posts do blog
+
+> [**Zykrav Blog**](https://davigsantana.github.io/) — análises de malware, engenharia reversa e operações ofensivas.
+
+- [Operation Silent Serpent MalOps](https://davigsantana.github.io/SilentSerpent/)
+- [Analysis of a RAR File Leading to Malicious GitHub Repositories Distributing LummaC2](https://davigsantana.github.io/LummaC2/)
+- [Practical Malware Analysis - Anti-Debugging](https://davigsantana.github.io/pma-chapter16/)
 
 ---
 
