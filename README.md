@@ -4,8 +4,8 @@
 
 **Offensive Security · Reverse Engineering · Malware Development · System Programming**
 
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B3FFD?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:seuemail@proton.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davigsantana)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B3FFD?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:cyberdgsecurity20@proton.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/davigsantana)
 [![Blog](https://img.shields.io/badge/Zykrav_Blog-0D0D0D?style=for-the-badge&logo=hexo&logoColor=white)](https://davigsantana.github.io/)
 
 <br>
